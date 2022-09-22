@@ -1,1 +1,0 @@
-../../../../../appengine-java8/datastore/src/main/webapp/guestbook.jsp
